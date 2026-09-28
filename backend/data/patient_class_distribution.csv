@@ -1,0 +1,11 @@
+patient_id,total_samples,normal_samples,pvc_samples,total_normal,total_pvc,has_normal,has_pvc,has_both_classes
+103,10,10,0,12078,0,True,False,False
+110,10,10,0,8441,0,True,False,False
+1001,10,10,10,6163,6488,True,True,True
+1002,10,10,0,9053,0,True,False,False
+1023,10,0,0,0,0,False,False,False
+1063,10,10,0,8209,0,True,False,False
+1072,10,10,0,7870,0,True,False,False
+1086,10,10,0,13089,0,True,False,False
+1110,10,10,3,9514,851,True,True,True
+1115,10,0,0,0,0,False,False,False

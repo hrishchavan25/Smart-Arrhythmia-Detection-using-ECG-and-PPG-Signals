@@ -1,0 +1,4 @@
+filename,ecg_length,ppg_length,mask_length,normal_count,pvc_count,other_count,normal_percentage,pvc_percentage,unique_labels
+sample_001.npz,1285,1285,1285,908,377,0,70.6614785992218,29.338521400778212,"[0, 4]"
+sample_002.npz,1280,1280,1280,684,596,0,53.43750000000001,46.5625,"[0, 4]"
+sample_003.npz,1210,1210,1210,642,568,0,53.05785123966942,46.942148760330575,"[0, 4]"

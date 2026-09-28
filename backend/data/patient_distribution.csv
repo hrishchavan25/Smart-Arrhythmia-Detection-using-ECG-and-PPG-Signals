@@ -1,0 +1,2 @@
+patient_id,total_windows,total_samples,normal_samples,pvc_samples,normal_percentage,pvc_percentage,has_normal,has_pvc,patient_category
+1001,100,128334,21864,106470,17.036794614053953,82.96320538594605,True,True,Mixed
